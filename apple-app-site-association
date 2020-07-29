@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "2LR9N6ERWB.fastpitch-iq.gameSenseSports",
-                "paths": [ "/index.html", "/videos/wwdc/2015/*"]
+                "paths": [ "*", "/videos/wwdc/2015/*"]
             }
         ]
     }
